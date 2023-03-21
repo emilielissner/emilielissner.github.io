@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Lets examine the SF crime data!
+
+![image](bokehfigure.html)
