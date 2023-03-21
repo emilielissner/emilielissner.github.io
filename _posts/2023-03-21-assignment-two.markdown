@@ -1,17 +1,31 @@
 ---
 layout: post
-title:  "Assignment Two"
+title:  "Narrative data visulization of the San Francisco Crime Data Set"
 date:   2023-03-21 14:22:33 +0100
 categories: jekyll update
 ---
 
-Lets examine the SF crime data!
+## Introduction
+In this post, we will reveal stories from the San Francisco Crime Data Set and communicate our insights using narrative storytelling on this page created using GitHub and Jekyll. 
 
+The San Francisco data set is a public available data set that contains information of all crimes comitted in San Franscisco from 2003-2018. 
+
+
+## Analysis
+
+Time series plot
+<img src="{{site.baseurl}}/assets/images/barplot.png">
+**Figure 1:** Barplor
+Map
+
+Interactive visulization (different data)
 <embed 
        type="text/html" 
-       src="/bokehfigure.html"
-       width="1100"
+       src="{{site.baseurl}}/assets/images/bokehfigure.html"
+       width="800"
        height="600"
        >
 </embed>
+**Figure 3:** Interactive plot
+
 
