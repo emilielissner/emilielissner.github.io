@@ -7,8 +7,11 @@ categories: jekyll update
 
 Lets examine the SF crime data!
 
+<embed 
+       type="text/html" 
+       src="bokehfigure.html"
+       width="1100"
+       height="600"
+       >
+</embed>
 
-<iframe
-  src="bokehfigure.html"
-  style="width:100%; height:300px;"
-></iframe>
