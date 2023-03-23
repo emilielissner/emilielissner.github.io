@@ -15,10 +15,15 @@ The San Francisco data set is a public available data set that contains informat
 
 Time series plot
 <img src="{{site.baseurl}}/assets/images/barplot.png">
-**Figure 1:** Barplor
-Map
+**Figure 1:** Barplot
 
-Interactive visulization (different data)
+Bla bla bla...
+
+<img src="{{site.baseurl}}/assets/images/map.png">
+**Figure 2:** Map
+
+Bla bla bla...
+
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/bokehfigure.html"
