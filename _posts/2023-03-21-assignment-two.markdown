@@ -27,8 +27,8 @@ Bla bla bla...
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/bokehfigure.html"
-       width="800"
-       height="600"
+       width="750"
+       height="550"
        >
 </embed>
 **Figure 3:** Interactive plot
