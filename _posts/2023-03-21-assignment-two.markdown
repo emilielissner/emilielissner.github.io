@@ -19,7 +19,13 @@ Time series plot
 
 Bla bla bla...
 
-<img src="{{site.baseurl}}/assets/images/map.png">
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/map.html"
+       width="750"
+       height="550"
+       >
+</embed>
 **Figure 2:** Map
 
 Bla bla bla...
