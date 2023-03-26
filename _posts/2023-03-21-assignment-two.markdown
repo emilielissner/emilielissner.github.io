@@ -31,7 +31,7 @@ Figure 2 shows a map over San Francisco where the position of the incidents is m
        >
 </embed>
 
-**Figure 2:** Map over San Francisco that shows where the incidents are recorded. Capp Strett are marked using a red marker. 
+**Figure 2:** Map over San Francisco that shows where the incidents are recorded. Capp Street are marked using a red marker. 
 
 ## At what time during the day are most crimes recorded?
 The daily pattern of crimes recorded are very different for the different districts. In Figure 3 this is visualized using an interactive plot, where you can click to both show and hide data from different districts. The visualization reveals that in the districts Mission, Northern and Tenderloin, most of the incidents are recorded during the evening and night, whereas the districts Southern and Taraval are busier during the day. 
