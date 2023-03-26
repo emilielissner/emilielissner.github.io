@@ -26,6 +26,7 @@ Bla bla bla...
        height="550"
        >
 </embed>
+
 **Figure 2:** Map
 
 Bla bla bla...
@@ -37,6 +38,7 @@ Bla bla bla...
        height="550"
        >
 </embed>
+
 **Figure 3:** Interactive plot
 
 
