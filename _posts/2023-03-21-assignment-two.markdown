@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Narrative data visulization of the San Francisco Crime Data Set"
+link_color: red
 date:   2023-03-21 14:22:33 +0100
 categories: jekyll update
 ---
@@ -29,7 +30,7 @@ Figure 2 shows a map over San Francisco where the position of the incidents is m
        width="750"
        height="550"
        >
-</embed>
+
 
 **Figure 2:** Map over San Francisco that shows where the incidents are recorded. Capp Street are marked using a red marker. 
 
@@ -42,7 +43,6 @@ The daily pattern of crimes recorded are very different for the different distri
        width="750"
        height="550"
        >
-</embed>
 
 **Figure 3:** Interactive plot that shows the hourly patterns in the districts. Click on the squares to hide/show data from a certain district.
 
@@ -51,6 +51,14 @@ In this post about prostitution crimes in San Francisco, we revealed three inter
 * Most prostitution crimes take place on Thursdays.
 * There are two hotspots of prostitution in San Francisco – one around Capp Street in Mission and one across the districts Northern, Tenderloin and Central.
 * The daily pattern of incidents is very different in the districts. In some districts there are most crimes during the day, while in other districts most crimes are recorded in the nighttime. 
+
+
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/Assignment02.html"
+       width="750"
+       height="550"
+       >
 
 
 [SFdata]: https://data.sfgov.org/browse?category=Public+Safety

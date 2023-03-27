@@ -31,7 +31,11 @@ github_username:  emilielissner
 theme: minima
 plugins:
   - jekyll-feed
-background-color: dark
+
+# Background color
+background_color: #faa79d
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
