@@ -24,7 +24,6 @@ In the districts Southern and Taraval, the contrast of the number of incidents b
 Figure 2 displays a map over San Francisco where the position of the incidents is marked. In San Francisco there are mainly two hotspots, where the crimes take place. The first one is around Capp Street, that is known as the [**“Red-light district”**][rl] of San Francisco. Capp street is in the Mission district and is the district with most incidents in general. The other hotspot is located across the three districts Northern, Tenderloin and Central. Noticeable, only a very little part of the incidents that takes place outside these two hotspots. 
 
 
-
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/map.html"
@@ -55,8 +54,6 @@ In this post about prostitution crimes in San Francisco, we revealed three inter
 * Most prostitution crimes take place on Thursdays.
 * There are two hotspots of prostitution in San Francisco – one around Capp Street in Mission and one across the districts Northern, Tenderloin and Central.
 * The daily pattern of incidents is very different in the districts. In some districts there are most crimes during the day, while in other districts most crimes are recorded in the nighttime. 
-
-
 
 
 

@@ -32,9 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Background color
-background_color: #faa79d
-
 
 
 # Exclude from processing.
