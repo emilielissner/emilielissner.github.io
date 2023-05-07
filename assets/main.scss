@@ -33,7 +33,15 @@ body {
   100% { left: 100%; }
 }
 
-img1 {
+
+img {
+  width: 100px; /* Adjust the value as per your desired size */
+}
+img {
+  height: 100px; /* Adjust the value as per your desired size */
+}
+
+img {
   position: absolute;
   animation: drive 10s linear infinite;
 }
