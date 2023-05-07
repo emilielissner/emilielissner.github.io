@@ -37,14 +37,14 @@ The traffic count data also revealed lots of car traffic on H.C. Andersens Boule
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/pollution.html"
-       width="550"
+       width="750"
        height="550"
        >
 
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/accidents.html"
-       width="550"
+       width="750"
        height="550"
        >
 
