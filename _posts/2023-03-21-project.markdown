@@ -55,6 +55,6 @@ If you've started feeling a bit demotivated by all the talk about traffic accide
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/greenmap.html"
-       width="700"
-       height="550"
+       width="800"
+       height="600"
        >
