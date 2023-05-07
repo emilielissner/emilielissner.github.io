@@ -25,6 +25,9 @@ While Copenhagen's emphasis on cycling and walking has undoubtedly contributed t
        width="1100"
        height="600"
        >
+<figcaption style="font-size: 14px;"> <em><strong>Traffic count data</strong>. The maps shows the most recent traffic counts in Copenhagen.</em></figcaption>
+
+<br>
 
 Biltyper afsnit
 
@@ -39,13 +42,16 @@ The traffic count data also revealed lots of car traffic on H.C. Andersens Boule
        height="550"
        >
 
+<figcaption style="font-size: 14px;"> <em><strong>Air pollution data</strong>. Explore the development in air pollution on two streets in Copenhagen.</em></figcaption>
+<br>
+
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/accidents.html"
        width="750"
        height="550"
        >
-
+<figcaption style="font-size: 14px;"> <em><strong>Traffic accident data</strong>. Explore the development in traffic accidents in Copenhagen.</em></figcaption>
 <br>
 
 If you've started feeling a bit demotivated by all the talk about traffic accidents and pollution, fear not when it comes to venturing out as a cyclist or pedestrian in Copenhagen. In fact, we're here to enhance your next biking or walking experience, making it both healthier and safer. We've created a user-friendly map that provides a comprehensive overview of the city's fantastic network of super bike lanes, green bike lanes, and charming parks. So, feel free to dive in and explore the map, empowering yourself with knowledge for your next adventure. Get ready to enjoy the vibrant streets of Copenhagen while keeping your well-being and safety in mind!
@@ -56,6 +62,8 @@ If you've started feeling a bit demotivated by all the talk about traffic accide
        width="800"
        height="600"
        >
+<figcaption style="font-size: 14px;"> <em><strong>Plan a green and safe bike trip</strong>. Explore the green and super bicycle lanes in Copenhagen.</em></figcaption>
+<br>
 
 [Gehl]: https://www.environmentshow.com/jan-gehl-quotes/
 [NB]: https://da.wikipedia.org/wiki/N%C3%B8rrebrogade
