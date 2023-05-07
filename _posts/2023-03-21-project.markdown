@@ -32,9 +32,6 @@ While Copenhagen's emphasis on cycling and walking has undoubtedly contributed t
 Biltyper afsnit
 
 The traffic count data also revealed lots of car traffic on H.C. Andersens Boulevard, which is the most polluted road in Copenhagen. According to IQAir, air pollution is responsible for an estimated [550 premature deaths in Copenhagen each year][Air]. This is a sobering reminder that while Copenhagen may be a model of sustainable transportation, it still has work to do when it comes to protecting the health of its residents. The primary culprits for air pollution in Copenhagen are traffic and industry, with vehicles being the biggest contributor to harmful emissions. The EU has set [legally binding limits][EU] on air pollutant concentrations in ambient air, including NO2, SO2, and NOx. While Copenhagen has met acceptable levels for NO2 and SO2, it is still struggling to reach the goal for NOx. To address this, the Copenhagen Municipality has budgeted 149 million DKK to lower NOx levels, including investing in cleaner buses and other measures. Check out the air pollution graph, which shows the EU upper bounds marked with dotted vertical lines, to see the progress that the city is making towards reducing harmful air pollutants.
-
-<br>
-
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/pollution.html"
@@ -63,7 +60,7 @@ If you've started feeling a bit demotivated by all the talk about traffic accide
        height="600"
        >
 <figcaption style="font-size: 14px;"> <em><strong>Plan a green and safe bike trip</strong>. Explore the green and super bicycle lanes in Copenhagen.</em></figcaption>
-<br>
+
 
 [Gehl]: https://www.environmentshow.com/jan-gehl-quotes/
 [NB]: https://da.wikipedia.org/wiki/N%C3%B8rrebrogade
