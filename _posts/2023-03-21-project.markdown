@@ -9,9 +9,8 @@ categories: jekyll update
 
 <img src="{{site.baseurl}}/assets/images/Copenhagen-scaled.jpg">
 
-<figcaption style="font-size: 12px;"> <em><strong>Byicyclers paradise</strong>. Copenhagen is known for all the bikes.</em></figcaption>
+<figcaption style="font-size: 14px;"> <em><strong>Byicyclers paradise</strong>. Copenhagen is known for all the bikes.</em></figcaption>
 
-\
 
 The city of Copenhagen consistently ranks highly in international surveys of quality of life, sustainability, happiness, and overall livability. Some of the factors that contribute to Copenhagen's livability include its extensive cycling infrastructure, excellent public transportation system and all the green spaces, with many parks and gardens scattered throughout the urban landscape. Urban planner and architect Jan Gehl praises Copenhagen's city plan for its emphasis on walking and cycling: 
 
