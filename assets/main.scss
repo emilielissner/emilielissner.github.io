@@ -27,3 +27,13 @@ a {
 body {
   font-family: 'Georgia', sans-serif;
 }
+
+@keyframes drive {
+  0% { left: -100px; }
+  100% { left: 100%; }
+}
+
+img1 {
+  position: absolute;
+  animation: drive 10s linear infinite;
+}
