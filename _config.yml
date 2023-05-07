@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Emilie og Esther's Data Science Page
+title: We Quant CPH
 email: s194341@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This site is used for Social Data Analysis and Visulization on DTU in 2023.
