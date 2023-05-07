@@ -8,7 +8,9 @@ categories: jekyll update
 #### Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.
 
 <img src="{{site.baseurl}}/assets/images/Copenhagen-scaled.jpg">
-***Byicyclers paradise.*** Copenhagen is known for all the bikes.
+
+<figcaption style="font-size: 12px;">Byicyclers paradise.*** Copenhagen is known for all the bikes.</figcaption>
+
 
 The city of Copenhagen consistently ranks highly in international surveys of quality of life, sustainability, happiness, and overall livability. Some of the factors that contribute to Copenhagen's livability include its extensive cycling infrastructure, excellent public transportation system and all the green spaces, with many parks and gardens scattered throughout the urban landscape. Urban planner and architect Jan Gehl praises Copenhagen's city plan for its emphasis on walking and cycling: 
 
