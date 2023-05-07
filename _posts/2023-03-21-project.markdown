@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Life on Two Wheels: Exploring Copenhagen's Cycling Scene Beyond the Stereotypes"
+date:   2023-03-21 14:22:33 +0100
+categories: jekyll update
+---
+
+Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.\\
+
+The city of Copenhagen consistently ranks highly in international surveys of quality of life, sustainability, happiness, and overall livability. Some of the factors that contribute to Copenhagen's livability include its extensive cycling infrastructure, excellent public transportation system and all the green spaces, with many parks and gardens scattered throughout the urban landscape. Urban planner and architect Jan Gehl praises Copenhagen's city plan for its emphasis on walking and cycling: *“The city plan for Copenhagen invites people to walk and cycle as much as possible in the course of their daily life. That is good for the climate, it’s good for the noise in the city, it’s good for the pollution in the city, good for the energy consumption, and it’s good for your health.”*. 
+
+While Copenhagen's emphasis on cycling and walking has undoubtedly contributed to its high livability ranking, it's important to understand the impact of these modes of transportation on traffic in the city. That's where traffic counts come in. By collecting data on the number of vehicles, pedestrians, and cyclists using specific roads and intersections, we can gain valuable insights into traffic patterns and identify areas where improvements may be needed. The most recent traffic counts in Copenhagen reveal some interesting trends. Out of 296 counting spots across Copenhagen, only 44 spots have more bicycles than cars. These spots are mainly located in the city center and in the district Nørrebro. In 2009 it was decided to close large parts of Nørrebrogade for cars, which might explain the relatively large amount of bike-dominated spots. Upon closer inspection of the traffic count data, it becomes clear that the label of "bicycle metropolis" may be a slight exaggeration. You can explore the traffic count data for your neighborhood in the map below. 
+
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/countmap.html"
+       width="750"
+       height="550"
+       >
+
+Biltyper afsnit
+
+The traffic count data also revealed lots of car traffic on H.C. Andersens Boulevard, which is the most polluted road in Copenhagen. According to a report by Aarhus University, air pollution is responsible for an estimated 550 premature deaths in Copenhagen each year. This is a sobering reminder that while Copenhagen may be a model of sustainable transportation, it still has work to do when it comes to protecting the health of its residents. The primary culprits for air pollution in Copenhagen are traffic and industry, with vehicles being the biggest contributor to harmful emissions. The EU has set legally binding limits on air pollutant concentrations in ambient air, including NO2, SO2, and NOx. While Copenhagen has met acceptable levels for NO2 and SO2, it is still struggling to reach the goal for NOx. To address this, the Copenhagen Municipality has budgeted 149 million DKK to lower NOx levels, including investing in cleaner buses and other measures. Check out the air pollution graph, which shows the EU upper bounds marked with dotted vertical lines, to see the progress that the city is making towards reducing harmful air pollutants.\\
+
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/pollution.html"
+       width="750"
+       height="550"
+       >
+
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/accidents.html"
+       width="750"
+       height="550"
+       >
+
+
+
+If you've started feeling a bit demotivated by all the talk about traffic accidents and pollution, fear not when it comes to venturing out as a cyclist or pedestrian in Copenhagen. In fact, we're here to enhance your next biking or walking experience, making it both healthier and safer. We've created a user-friendly map that provides a comprehensive overview of the city's fantastic network of super bike lanes, green bike lanes, and charming parks. So, feel free to dive in and explore the map, empowering yourself with knowledge for your next adventure. Get ready to enjoy the vibrant streets of Copenhagen while keeping your well-being and safety in mind!
+
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/greenmap.html"
+       width="750"
+       height="550"
+       >
