@@ -26,7 +26,7 @@ While Copenhagen's emphasis on cycling and walking has undoubtedly contributed t
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/count.html"
-       width="700"
+       width="1100"
        height="550"
        >
 
