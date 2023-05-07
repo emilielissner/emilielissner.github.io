@@ -5,7 +5,7 @@ date:   2023-03-21 14:22:33 +0100
 categories: jekyll update
 ---
 
-#### Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.
+#### ***Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.***
 
 <img src="{{site.baseurl}}/assets/images/Copenhagen-scaled.jpg">
 
