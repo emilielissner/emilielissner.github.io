@@ -5,7 +5,7 @@ date:   2023-03-21 14:22:33 +0100
 categories: jekyll update
 ---
 
-Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.\\
+Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.
 
 The city of Copenhagen consistently ranks highly in international surveys of quality of life, sustainability, happiness, and overall livability. Some of the factors that contribute to Copenhagen's livability include its extensive cycling infrastructure, excellent public transportation system and all the green spaces, with many parks and gardens scattered throughout the urban landscape. Urban planner and architect Jan Gehl praises Copenhagen's city plan for its emphasis on walking and cycling: *“The city plan for Copenhagen invites people to walk and cycle as much as possible in the course of their daily life. That is good for the climate, it’s good for the noise in the city, it’s good for the pollution in the city, good for the energy consumption, and it’s good for your health.”*. 
 
