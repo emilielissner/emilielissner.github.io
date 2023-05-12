@@ -78,7 +78,7 @@ If you've started feeling a bit demotivated by all the talk about traffic accide
        >
 <figcaption style="font-size: 14px;"> <em><strong>Plan a green and safe bike trip</strong>. Explore the green and super bicycle lanes in Copenhagen.</em></figcaption>
 
-If you are further interested of the making process of this informative website, please check out this explainer <a href="{{site.baseurl}}/assets/images/explainer_notebook.html"> **Jupiter Notebook**.</a>
+If you are further interested of the making process of this informative website, please check out this explainer <a href="{{site.baseurl}}/assets/images/explainer_notebook.html"> **Jupiter Notebook**.</a> or download it here <a href="{{site.baseurl}}/assets/images/explainer.ipynb"> explainer </a>
 
 
 [Gehl]: https://www.environmentshow.com/jan-gehl-quotes/
