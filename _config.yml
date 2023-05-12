@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: We Quant CPH
-email: s194341@student.dtu.dk
+# email: s194341@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   This site is used for Social Data Analysis and Visulization on DTU in 2023.
+  Student numbers: S194341 and s193181.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://emilielissner.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
