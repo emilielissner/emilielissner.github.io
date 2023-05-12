@@ -5,7 +5,7 @@ date:   2023-03-21 14:22:33 +0100
 categories: jekyll update
 ---
 
-#### *Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seatbelt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.*
+#### *Welcome to a thrilling ride through the bustling streets of Copenhagen! Join us as we investigate Copenhagen's reputation as a sustainable bicycle metropolis and explore the data behind it. So whether you're fastening your seat belt or jumping on your bike, get ready to be immersed in a world of fun facts and insightful observations about the traffic habits in your favorite city.*
 
 <img src="{{site.baseurl}}/assets/images/Copenhagen-scaled.jpg">
 
@@ -45,7 +45,7 @@ After revealing that most places in Copenhagen are still dominated by cars, you 
 <br>
 
 # Exploring Traffic Safety and Pollution in Copenhagen
-The traffic count data also revealed lots of car traffic on H.C. Andersens Boulevard, which is the most polluted road in Copenhagen. According to IQAir, air pollution is responsible for an estimated [550 premature deaths in Copenhagen each year][Air]. This is a sobering reminder that while Copenhagen may be a model of sustainable transportation, it still has work to do when it comes to protecting the health of its residents. The primary culprits for air pollution in Copenhagen are traffic and industry, with vehicles being the biggest contributor to harmful emissions. The EU has set [legally binding limits][EU] on air pollutant concentrations in ambient air, including NO2, SO2, and NOx. While Copenhagen has met acceptable levels for NO2 and SO2, it is still struggling to reach the goal for NOx. To address this, the Copenhagen Municipality has budgeted 149 million DKK to lower NOx levels, including investing in cleaner buses and other measures. Check out the air pollution graph, which shows the EU upper bounds marked with dotted vertical lines, to see the progress that the city is making towards reducing harmful air pollutants.
+The traffic count data also revealed lots of car traffic on H.C. Andersens Boulevard, which is the most polluted road in Copenhagen. According to IQAir, air pollution is responsible for an estimated [550 premature deaths in Copenhagen each year][Air]. This is a sobering reminder that while Copenhagen may be a model of sustainable transportation, it still has work to do when it comes to protecting the health of its residents. The primary culprits for air pollution in Copenhagen are traffic and industry, with vehicles being the biggest contributor to harmful emissions. The EU has set [legally binding limits][EU] on air pollutant concentrations in ambient air, including NO2, SO2, and NOx. While Copenhagen has met acceptable levels for NO2 and SO2, it is still struggling to reach the goal for NOx. To address this, the Copenhagen Municipality has budgeted 149 million DKK to lower NOx levels, including investing in cleaner buses and other measures. These actions highlight the significance of city data in guiding effective urban planning strategies! Check out the air pollution graph, which shows the EU upper bounds marked with dotted vertical lines, to see the progress that the city is making towards reducing harmful air pollutants.
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/pollution.html"
@@ -56,7 +56,7 @@ The traffic count data also revealed lots of car traffic on H.C. Andersens Boule
 <figcaption style="font-size: 14px;"> <em><strong>Air pollution data</strong>. Explore the development in air pollution on two streets in Copenhagen.</em></figcaption>
 <br>
 
-Motivated to hop on your bike? Proceed with caution! It's important to be aware of the potential risks in traffic. While cyclists tend to experience the highest number of minor and serious injuries year after year, it's worth noting that pedestrians used to the victims of the majority of traffic-related fatalities. However, the tragic reality has now shifted, with cyclists also accounting for a significant number of fatalities. The plot below provides detailed data on this distribution. To provide further context, it's worth mentioning that in 2022, 43 people lost their lives due to manslaughter throughout all of Denmark, a considerably lower number than the count of serious injuries in Copenhagen alone. Stay vigilant and prioritize your safety while cycling in traffic.
+Motivated to hop on your bike? Proceed with caution! It's important to be aware of the potential risks in traffic. While cyclists tend to experience the highest number of minor and serious injuries year after year, it's worth noting that pedestrians used to the victims of the majority of traffic-related fatalities. However, the tragic reality has now shifted, with cyclists also accounting for a significant number of fatalities. The plot below provides detailed data on this distribution. To provide further context, it's worth mentioning that in 2022, [43 people lost their lives due to manslaughter][drab] throughout all of Denmark, a considerably lower number than the count of serious injuries in Copenhagen alone. Stay vigilant and prioritize your safety while cycling in traffic.
 
 <embed 
        type="text/html" 
@@ -83,3 +83,4 @@ If you've started feeling a bit demotivated by all the talk about traffic accide
 [NB]: https://da.wikipedia.org/wiki/N%C3%B8rrebrogade
 [EU]: https://environment.ec.europa.eu/topics/air/air-quality/eu-air-quality-standards_en
 [Air]: https://www.iqair.com/denmark
+[drab]: https://avisendanmark.dk/danmark/43-ofre-for-drab-og-doedsvold-i-2022
