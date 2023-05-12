@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life on Two Wheels: Exploring Copenhagen's Cycling Scene Beyond the Stereotypes"
-date:   2023-03-21 14:22:33 +0100
+date:   2023-05-12 14:22:33 +0100
 categories: jekyll update
 ---
 
@@ -9,7 +9,7 @@ categories: jekyll update
 
 <img src="{{site.baseurl}}/assets/images/Copenhagen-scaled.jpg">
 
-<figcaption style="font-size: 14px;"> <em><strong>Byicyclers paradise</strong>. Copenhagen is known for all the bikes.</em></figcaption>
+<figcaption style="font-size: 14px;"> <em><strong>Bicycles paradise</strong>. Copenhagen is known for all the bikes.</em></figcaption>
 
 <br>
 
