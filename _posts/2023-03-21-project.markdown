@@ -18,7 +18,7 @@ The city of Copenhagen consistently ranks highly in international surveys of qua
 #### *"The city plan for Copenhagen invites people to walk and cycle as much as possible in the course of their daily life. That is good for the climate, it’s good for the noise in the city, it’s good for the pollution in the city, good for the energy consumption, and it’s good for your health."*
 <br>
 
-# How is the distribution of road users in Copenhagen?
+# Unveiling Copenhagen's Road User Mix: Who Rules the Streets?
 While Copenhagen's emphasis on cycling and walking has undoubtedly contributed to its high livability ranking, it's important to understand the impact of these modes of transportation on traffic in the city. That's where traffic counts come in. By collecting data on the number of vehicles, pedestrians, and cyclists using specific roads and intersections, we can gain valuable insights into traffic patterns and identify areas where improvements may be needed. The most recent traffic counts in Copenhagen reveal some interesting trends. Out of 296 counting spots across Copenhagen, only 44 spots have more bicycles than cars. These spots are mainly located in the city center and in the district Nørrebro. [In 2009 it was decided to close large parts of Nørrebrogade for cars][NB], which might explain the relatively large amount of bike-dominated spots. Upon closer inspection of the traffic count data, it becomes clear that the label of "bicycle metropolis" may be a slight exaggeration. You can explore the traffic count data for your neighborhood in the map below. 
 
 <embed 
@@ -31,8 +31,20 @@ While Copenhagen's emphasis on cycling and walking has undoubtedly contributed t
 
 <br>
 
+# Copenhagen's Preferred Car Types - What Drives its Citizens?
+After revealing that most places in Copenhagen are still dominated by cars, you might be wondering what kind of car types the citizens of Copenhagen prefer to use. You can explore this in the plot below, which shows the distribution of car types in the urban area. The data reveals that petrol and diesel cars dominate in all districts of Copenhagen. These two car types are both the most polluting and the least environmentally friendly.
 
-# How safe is the traffic in Copenhagen?
+<embed 
+       type="text/html" 
+       src="{{site.baseurl}}/assets/images/cartypes.html"
+       width="750"
+       height="550"
+       >
+<figcaption style="font-size: 14px;"> <em><strong>Car types data</strong>. Play around in the plot to find the distribution of car types in your neighborhood.</em></figcaption>
+
+<br>
+
+# Exploring Traffic Safety and Pollution in Copenhagen
 The traffic count data also revealed lots of car traffic on H.C. Andersens Boulevard, which is the most polluted road in Copenhagen. According to IQAir, air pollution is responsible for an estimated [550 premature deaths in Copenhagen each year][Air]. This is a sobering reminder that while Copenhagen may be a model of sustainable transportation, it still has work to do when it comes to protecting the health of its residents. The primary culprits for air pollution in Copenhagen are traffic and industry, with vehicles being the biggest contributor to harmful emissions. The EU has set [legally binding limits][EU] on air pollutant concentrations in ambient air, including NO2, SO2, and NOx. While Copenhagen has met acceptable levels for NO2 and SO2, it is still struggling to reach the goal for NOx. To address this, the Copenhagen Municipality has budgeted 149 million DKK to lower NOx levels, including investing in cleaner buses and other measures. Check out the air pollution graph, which shows the EU upper bounds marked with dotted vertical lines, to see the progress that the city is making towards reducing harmful air pollutants.
 <embed 
        type="text/html" 
@@ -44,6 +56,8 @@ The traffic count data also revealed lots of car traffic on H.C. Andersens Boule
 <figcaption style="font-size: 14px;"> <em><strong>Air pollution data</strong>. Explore the development in air pollution on two streets in Copenhagen.</em></figcaption>
 <br>
 
+Motivated to hop on your bike? Proceed with caution! It's important to be aware of the potential risks in traffic. While cyclists tend to experience the highest number of minor and serious injuries year after year, it's worth noting that pedestrians used to the victims of the majority of traffic-related fatalities. However, the tragic reality has now shifted, with cyclists also accounting for a significant number of fatalities. The plot below provides detailed data on this distribution. To provide further context, it's worth mentioning that in 2022, 43 people lost their lives due to manslaughter throughout all of Denmark, a considerably lower number than the count of serious injuries in Copenhagen alone. Stay vigilant and prioritize your safety while cycling in traffic.
+
 <embed 
        type="text/html" 
        src="{{site.baseurl}}/assets/images/accidents.html"
@@ -53,7 +67,7 @@ The traffic count data also revealed lots of car traffic on H.C. Andersens Boule
 <figcaption style="font-size: 14px;"> <em><strong>Traffic accident data</strong>. Explore the development in traffic accidents in Copenhagen.</em></figcaption>
 <br>
 
-# Plan a green and safe bicycle ride
+# Discover the Path to Green and Secure Bicycle Adventures
 If you've started feeling a bit demotivated by all the talk about traffic accidents and pollution, fear not when it comes to venturing out as a cyclist or pedestrian in Copenhagen. In fact, we're here to enhance your next biking or walking experience, making it both healthier and safer. We've created a user-friendly map that provides a comprehensive overview of the city's fantastic network of super bike lanes, green bike lanes, and charming parks. So, feel free to dive in and explore the map, empowering yourself with knowledge for your next adventure. Get ready to enjoy the vibrant streets of Copenhagen while keeping your well-being and safety in mind!
 
 <embed 
