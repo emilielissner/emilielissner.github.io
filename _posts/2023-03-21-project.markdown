@@ -36,7 +36,7 @@ After revealing that most places in Copenhagen are still dominated by cars, you 
 
 <embed 
        type="text/html" 
-       src="{{site.baseurl}}/assets/images/cartypes.html"
+       src="{{site.baseurl}}/assets/images/cartypes_2.html"
        width="750"
        height="550"
        >
